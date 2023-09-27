@@ -45,7 +45,6 @@ class GFG {
 // } Driver Code Ends
 
 
-//User function Template for Java
 
 class Solution{
     // Function for finding maximum and value pair
