@@ -1,18 +1,20 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
-        int count=0;
-        int n=nums.length;
-        if(n<=1){
-            return count;
+        Map<Integer, List<Integer>> map = new HashMap();
+        for(int i = 0; i< nums.length; i++){
+            if (!map.containsKey(nums[i]))
+                map.put(nums[i], new ArrayList<Integer>());
+            map.get(nums[i]).add(i);
         }
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(nums[i]==nums[j]){
-                    count++;
-                }
+        int result = 0;
+        for(Map.Entry<Integer, List<Integer>> entry: map.entrySet()){
+            Integer key = entry.getKey();
+            List<Integer> list= entry.getValue();
+            if (list.size()>1){
+                result+= (list.size()*(list.size()-1))/2;
             }
         }
-        return count;
+        return result;
         
     }
 }
