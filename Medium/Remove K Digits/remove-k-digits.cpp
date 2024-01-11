@@ -9,39 +9,34 @@ using namespace std;
 
 class Solution {
   public:
-   string removeKdigits(string s, int k) {
-        int n=s.size();
-        vector<int>v(10,0);
-        stack<char>st;
-        for(int i=0;i<n;i++)
-        {
-            while(!st.empty()&&s[i]<st.top()&&k>0)
-            {
-                st.pop();
-                k--;
+    string removeKdigits(string s, int k) {
+        int n =s.size();
+        deque<int>dq;
+        for(int i=0 ;i<n;i++){
+        
+            while(!dq.empty() && s[i]-'0'<dq.back()&& k>0){
+               dq.pop_back();
+               k--;
+               
             }
-            if(st.empty()&&s[i]=='0')
-            continue;
-            st.push(s[i]);
+            dq.push_back(s[i]-'0');
         }
-        while(!st.empty()&&k--)
-        {
-           st.pop();
+   
+//if k>0
+        while(k--){
+            dq.pop_back();
         }
-
-       if(st.empty())
-       {
-       return "0";
-       }
-       string ans="";
-
-        while(!st.empty())
-        {
-            ans+=st.top();
-            st.pop();
+      
+// remaining element add to ans
+        string str="";
+        bool leadingZero = true;
+        
+        for(auto x: dq){
+            if(x==0 && leadingZero) continue;
+            leadingZero = false;
+            str+=to_string(x);
         }
-        reverse(ans.begin(),ans.end());
-        return ans;
+        return (str=="")?"0":str; 
     }
 };
 
