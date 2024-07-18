@@ -61,6 +61,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
