@@ -41,6 +41,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
+| [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,10 +61,15 @@ All Solved Questions Of LeetCode
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
