@@ -37,7 +37,9 @@ public:
             count++;
         }
         startingCol++; //increase string col go to right shrink it spiral
-
+        if(count==totalCount){
+            return ans;
+        }
         }
         return ans;
 
