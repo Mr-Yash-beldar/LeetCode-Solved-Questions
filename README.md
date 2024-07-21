@@ -36,6 +36,7 @@ All Solved Questions Of LeetCode
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
@@ -43,6 +44,7 @@ All Solved Questions Of LeetCode
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
