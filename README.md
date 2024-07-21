@@ -40,6 +40,7 @@ All Solved Questions Of LeetCode
 | [0054-spiral-matrix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
+| [0643-maximum-average-subarray-i](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ All Solved Questions Of LeetCode
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
