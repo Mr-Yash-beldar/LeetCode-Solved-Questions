@@ -46,6 +46,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0647-palindromic-substrings](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
@@ -70,6 +71,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
+| [0647-palindromic-substrings](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -94,4 +96,8 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
