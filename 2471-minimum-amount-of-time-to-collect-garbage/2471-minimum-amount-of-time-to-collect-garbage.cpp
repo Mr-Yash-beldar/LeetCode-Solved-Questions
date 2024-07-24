@@ -6,7 +6,7 @@ public:
         int pickG = 0; //glass pick time
         int pickM = 0; //metal pick time
 
-        int lastP = -1; //last occurrence of plastic
+        int lastP = -1; //last occurrence of plastic initially not moved hence -1
         int lastG = -1; //last occurrence of glass
         int lastM = -1; //last occurrence of metal
 
@@ -30,9 +30,9 @@ public:
         }
 
         // Calculate the travel time required for each garbage type
-        int travelTime = 0;
-        if (lastP != -1) {
-            for (int i = 0; i < lastP; i++) {
+        int travelTime = 0; // traveltime
+        if (lastP != -1) { //if moved it will >-1 
+            for (int i = 0; i < lastP; i++) {  // go upto last garbage type
                 travelTime += travel[i];
             }
         }
@@ -47,7 +47,7 @@ public:
             }
         }
 
-        totalTime = pickP + pickG + pickM + travelTime;
+        totalTime = pickP + pickG + pickM + travelTime; // find totaltime with pickup time and travel time
         return totalTime;
     }
 };
