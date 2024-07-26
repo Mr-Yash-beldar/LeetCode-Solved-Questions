@@ -64,6 +64,7 @@ All Solved Questions Of LeetCode
 | ------- |
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
+| [0807-custom-sort-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0807-custom-sort-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -74,6 +75,7 @@ All Solved Questions Of LeetCode
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0807-custom-sort-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2406-decode-the-message](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2406-decode-the-message) |
@@ -106,6 +108,7 @@ All Solved Questions Of LeetCode
 ## Hash Table
 |  |
 | ------- |
+| [0807-custom-sort-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0807-custom-sort-string) |
 | [2406-decode-the-message](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2406-decode-the-message) |
 ## Prefix Sum
 |  |
