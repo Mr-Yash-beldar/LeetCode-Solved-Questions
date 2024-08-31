@@ -45,6 +45,7 @@ All Solved Questions Of LeetCode
 | [0926-find-and-replace-pattern](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0926-find-and-replace-pattern) |
 | [1325-path-with-maximum-probability](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ All Solved Questions Of LeetCode
 | [0926-find-and-replace-pattern](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Stack
@@ -99,10 +101,12 @@ All Solved Questions Of LeetCode
 | ------- |
 | [0066-plus-one](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
 | ------- |
