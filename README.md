@@ -45,6 +45,7 @@ All Solved Questions Of LeetCode
 | [0926-find-and-replace-pattern](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0926-find-and-replace-pattern) |
 | [1325-path-with-maximum-probability](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
@@ -58,6 +59,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +113,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +128,7 @@ All Solved Questions Of LeetCode
 ## Prefix Sum
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Graph
 |  |
