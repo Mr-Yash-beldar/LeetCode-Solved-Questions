@@ -42,6 +42,7 @@ All Solved Questions Of LeetCode
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
+| [0906-walking-robot-simulation](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0926-find-and-replace-pattern) |
 | [1325-path-with-maximum-probability](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -113,6 +114,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
+| [0906-walking-robot-simulation](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
@@ -122,6 +124,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0807-custom-sort-string) |
+| [0906-walking-robot-simulation](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0926-find-and-replace-pattern) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2406-decode-the-message](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2406-decode-the-message) |
