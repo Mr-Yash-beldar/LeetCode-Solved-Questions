@@ -49,6 +49,7 @@ All Solved Questions Of LeetCode
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2411-spiral-matrix-iv](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -113,6 +114,7 @@ All Solved Questions Of LeetCode
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2411-spiral-matrix-iv](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +122,7 @@ All Solved Questions Of LeetCode
 | [0906-walking-robot-simulation](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2411-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,5 +152,6 @@ All Solved Questions Of LeetCode
 ## Linked List
 |  |
 | ------- |
+| [2411-spiral-matrix-iv](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
