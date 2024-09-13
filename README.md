@@ -45,6 +45,7 @@ All Solved Questions Of LeetCode
 | [0906-walking-robot-simulation](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0926-find-and-replace-pattern) |
 | [1325-path-with-maximum-probability](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2155-find-missing-observations) |
@@ -139,6 +140,7 @@ All Solved Questions Of LeetCode
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Graph
@@ -154,4 +156,8 @@ All Solved Questions Of LeetCode
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
