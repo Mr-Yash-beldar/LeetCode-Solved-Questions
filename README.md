@@ -85,6 +85,7 @@ All Solved Questions Of LeetCode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
@@ -160,4 +161,8 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1435-xor-queries-of-a-subarray) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
