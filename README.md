@@ -63,6 +63,7 @@ All Solved Questions Of LeetCode
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
@@ -108,6 +109,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
