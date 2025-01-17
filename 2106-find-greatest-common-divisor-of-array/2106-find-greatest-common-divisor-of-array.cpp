@@ -14,6 +14,6 @@ public:
     int findGCD(vector<int>& nums) {
         int maxi = *max_element(nums.begin(), nums.end()); //find maximum element in array
         int mini = *min_element(nums.begin(), nums.end());  //find minimun element in array
-        return gcdans(maxi, mini);
+        return gcdans(maxi, mini); //find gcd
     }
 };
