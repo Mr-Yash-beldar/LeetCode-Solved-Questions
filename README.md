@@ -48,6 +48,7 @@ All Solved Questions Of LeetCode
 | [1435-xor-queries-of-a-subarray](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2411-spiral-matrix-iv) |
@@ -111,6 +112,7 @@ All Solved Questions Of LeetCode
 | [0066-plus-one](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 | [0539-minimum-time-difference](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0539-minimum-time-difference) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Matrix
@@ -167,4 +169,8 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
