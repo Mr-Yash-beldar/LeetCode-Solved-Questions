@@ -94,6 +94,7 @@ All Solved Questions Of LeetCode
 | [0807-custom-sort-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0926-find-and-replace-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1250-longest-common-subsequence](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2406-decode-the-message) |
@@ -133,6 +134,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
