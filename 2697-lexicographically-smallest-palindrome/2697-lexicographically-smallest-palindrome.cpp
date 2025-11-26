@@ -12,10 +12,7 @@ public:
                 ans[start] = smaller;
                 ans[end] = smaller;
             } 
-            else {
-                ans[start] = s[start];
-                ans[end] = s[start];
-            }
+         
             
             start++;
             end--;
