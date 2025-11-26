@@ -61,6 +61,7 @@ All Solved Questions Of LeetCode
 | [0647-palindromic-substrings](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ All Solved Questions Of LeetCode
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Math
 |  |
 | ------- |
