@@ -47,6 +47,7 @@ All Solved Questions Of LeetCode
 | [1325-path-with-maximum-probability](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2155-find-missing-observations) |
@@ -67,6 +68,7 @@ All Solved Questions Of LeetCode
 | ------- |
 | [0069-sqrtx](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 | [0658-find-k-closest-elements](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0658-find-k-closest-elements) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
@@ -130,6 +132,7 @@ All Solved Questions Of LeetCode
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/0906-walking-robot-simulation) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2411-spiral-matrix-iv) |
@@ -151,6 +154,7 @@ All Solved Questions Of LeetCode
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Mr-Yash-beldar/LeetCode-Solved-Questions/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Graph
